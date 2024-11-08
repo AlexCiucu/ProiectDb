@@ -1,0 +1,822 @@
+[
+    {
+      "name": "Mona Lisa",
+      "year": 1503,
+      "century": "16th",
+      "artist": "Leonardo da Vinci",
+      "short_description": "The famous portrait of Lisa Gherardini, also known as Mona Lisa, is one of the most iconic paintings in the world.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/640px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+      "artist_photo_url": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-leonardo-da-vinci-1452-1519-getty.jpg"
+    },
+    {
+      "name": "Starry Night",
+      "year": 1889,
+      "century": "19th",
+      "artist": "Vincent van Gogh",
+      "short_description": "Starry Night depicts the view from the window of Van Gogh's asylum room at Saint-Rémy-de-Provence.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4BAl1snQ-mcFbeIDqX5G_PdpHKJqQAeHactnCP_sxVg&s",
+      "artist_photo_url": "https://cdn.britannica.com/36/69636-050-81A93193/Self-Portrait-artist-panel-board-Vincent-van-Gogh-1887.jpg"
+    },
+    {
+      "name": "The Persistence of Memory",
+      "year": 1931,
+      "century": "20th",
+      "artist": "Salvador Dalí",
+      "short_description": "Dalí's iconic surrealist painting featuring melting clocks in a dreamlike landscape.",
+      "art_photo_url": "https://cdn.britannica.com/96/240496-138-66D89FAD/Salvador-Dali-Persistence-of-Memory.jpg?w=800&h=450&c=crop",
+      "artist_photo_url": "https://assets.artworkarchive.com/image/upload/t_jpg_large/v1605300238/user_43577/contact_images/dahli_x4uneu.jpg"
+    },
+  {
+      "name": "The Last Supper",
+      "year": 1495,
+      "century": "15th",
+      "artist": "Leonardo da Vinci",
+      "short_description": "A renowned depiction of the Last Supper of Jesus with his disciples.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0wRyldX5IbUf3FF2FvHpIBmgesvZyv-hg_fKBrhzwA&s",
+      "artist_photo_url": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-leonardo-da-vinci-1452-1519-getty.jpg"
+    },
+    {
+      "name": "Guernica",
+      "year": 1937,
+      "century": "20th",
+      "artist": "Pablo Picasso",
+      "short_description": "Picasso's powerful anti-war painting depicting the bombing of Guernica during the Spanish Civil War.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/en/7/74/PicassoGuernica.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/640px-Pablo_picasso_1.jpg"
+    },
+    {
+      "name": "The Scream",
+      "year": 1893,
+      "century": "19th",
+      "artist": "Edvard Munch",
+      "short_description": "A haunting portrayal of existential angst, capturing the intense emotion of a figure against a blood-red sky.",
+      "art_photo_url": "https://cdn.britannica.com/93/240793-138-69567C00/Edvard-Munch-The-Scream.jpg?w=800&h=450&c=crop",
+      "artist_photo_url": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-600031727jpg--.jpg?crop=1xw:1.0xh;center,top&resize=640:*"
+    },
+    {
+      "name": "The Birth of Venus",
+      "year": 1486,
+      "century": "15th",
+      "artist": "Sandro Botticelli",
+      "short_description": "Botticelli's iconic painting depicting the goddess Venus emerging from the sea on a shell.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYuEvuN40IsPIi7TgGYPkLCqvS_UVdJZzCn5xU3wE99A&s",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/1200px-Sandro_Botticelli_083.jpg"
+    },
+    {
+      "name": "The Kiss",
+      "year": 1907,
+      "century": "20th",
+      "artist": "Gustav Klimt",
+      "short_description": "Klimt's masterpiece depicting a couple embracing in a passionate kiss, adorned with intricate patterns and gold leaf.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+      "artist_photo_url": "https://hips.hearstapps.com/hmg-prod/images/gustav-klimt-gettyimages-541068539.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+    },
+    {
+      "name": "The Girl with a Pearl Earring",
+      "year": 1665,
+      "century": "17th",
+      "artist": "Johannes Vermeer",
+      "short_description": "Vermeer's enigmatic portrait of a young girl adorned with a large pearl earring.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/800px-1665_Girl_with_a_Pearl_Earring.jpg",
+      "artist_photo_url": "https://sf.ezoiccdn.com/ezoimgfmt/i0.wp.com/static.wixstatic.com/media/6990e8_9ef9d61f23494c569e1d998cb4798320~mv2.jpg/v1/fill/w_378,h_462,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6990e8_9ef9d61f23494c569e1d998cb4798320~mv2.jpg?w=640&ssl=1&ezimgfmt=ngcb1/notWebP"
+    },
+    {
+      "name": "Les Demoiselles d'Avignon",
+      "year": 1907,
+      "century": "20th",
+      "artist": "Pablo Picasso",
+      "short_description": "A groundbreaking work in the development of Cubism, depicting five nude women with angular and distorted forms.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcU_I579saubCUV9gfzoQ1nBrGmh8w8tWqci8MI1DHg&s",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/640px-Pablo_picasso_1.jpg"
+    },
+    {
+      "name": "The Birth of Adam",
+      "year": 1512,
+      "century": "16th",
+      "artist": "Michelangelo",
+      "short_description": "Part of the ceiling frescoes in the Sistine Chapel, depicting the creation of Adam, a scene from the Book of Genesis.",
+      "art_photo_url": "https://www.goldmarkart.com/cdn/shop/products/birth_of_adam.jpg?v=1640779104",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/1200px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+    },
+    {
+      "name": "The Night Watch",
+      "year": 1642,
+      "century": "17th",
+      "artist": "Rembrandt van Rijn",
+      "short_description": "A monumental group portrait of a city guard regiment by Rembrandt, renowned for its use of light and shadow.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/1200px-The_Night_Watch_-_HD.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/1200px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg"
+    },
+    {
+      "name": "Campbell's Soup Cans",
+      "year": 1962,
+      "century": "20th",
+      "artist": "Andy Warhol",
+      "short_description": "Warhol's iconic series of 32 Campbell's Soup cans, a hallmark of the Pop Art movement.",
+      "art_photo_url": "https://origins.osu.edu/sites/default/files/inline-images/andy-warhol-soup-cans.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Andy_Warhol_at_the_Jewish_Museum_%28by_Bernard_Gotfryd%29_%E2%80%93_LOC.jpg"
+    },
+    {
+      "name": "The Garden of Earthly Delights",
+      "year": 1490,
+      "century": "15th",
+      "artist": "Hieronymus Bosch",
+      "short_description": "Bosch's triptych masterpiece depicting a surreal landscape filled with fantastical creatures and scenes.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Garden_of_earthly_delights.jpg/800px-The_Garden_of_earthly_delights.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Garden_of_earthly_delights.jpg/550px-The_Garden_of_earthly_delights.jpg"
+    },
+    {
+      "name": "The Great Wave off Kanagawa",
+      "year": 1831,
+      "century": "19th",
+      "artist": "Katsushika Hokusai",
+      "short_description": "A famous woodblock print depicting a towering wave about to crash on boats beneath Mount Fuji.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tsunami_by_hokusai_19th_century.jpg",
+      "artist_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ46KycXgux7Q5fBNiqubD_eGP2-oTURtw7FtWvjJXwAg&s"
+    },
+    {
+      "name": "The Arnolfini Portrait",
+      "year": 1434,
+      "century": "15th",
+      "artist": "Jan van Eyck",
+      "short_description": "A masterpiece of Northern Renaissance art, depicting a wealthy couple in a richly detailed room.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Arnolfini_portrait_%281434%29.jpg/1200px-The_Arnolfini_portrait_%281434%29.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Portrait_of_a_Man_by_Jan_van_Eyck-small.jpg"
+    },
+    {
+      "name": "Nighthawks",
+      "year": 1942,
+      "century": "20th",
+      "artist": "Edward Hopper",
+      "short_description": "Hopper's iconic painting of a late-night diner scene, capturing a sense of urban isolation and alienation.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Edward_Hopper%2C_New_York_artist_LCCN2016871478_%28cropped%29.jpg"
+    },
+    {
+      "name": "The Creation of Adam",
+      "year": 1512,
+      "century": "16th",
+      "artist": "Michelangelo",
+      "short_description": "Part of the iconic ceiling frescoes in the Sistine Chapel, depicting the creation of Adam by the touch of God.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWAzJDSR5np3zVIM5qdAVZ-QH01KVKadghxqQToKYSyQ&s",
+      "artist_photo_url": "https://example.com/https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/1200px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+    },
+    {
+      "name": "The Starry Night Over the Rhône",
+      "year": 1888,
+      "century": "19th",
+      "artist": "Vincent van Gogh",
+      "short_description": "Van Gogh's mesmerizing depiction of the night sky over the Rhône River in Arles, France.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyh15e1g7g4MRgQaMI9K0N9J6I0kaqNBwCaUyD7pobxA&s",
+      "artist_photo_url": "https://cdn.britannica.com/36/69636-050-81A93193/Self-Portrait-artist-panel-board-Vincent-van-Gogh-1887.jpg"
+    },
+    {
+      "name": "The Thinker",
+      "year": 1902,
+      "century": "20th",
+      "artist": "Auguste Rodin",
+      "short_description": "Rodin's iconic sculpture depicting a man in deep contemplation, representing philosophical introspection.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Mus%C3%A9e_Rodin_1.jpg",
+      "artist_photo_url": "https://example.com/https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Auguste_Rodin_fotografato_da_Nadar_nel_1891.jpg/640px-Auguste_Rodin_fotografato_da_Nadar_nel_1891.jpg"
+    },
+    {
+      "name": "The Creation of the Sun, Moon, and Vegetation",
+      "year": 1511,
+      "century": "16th",
+      "artist": "Michelangelo",
+      "short_description": "Another section of Michelangelo's masterful frescoes, illustrating the creation of celestial bodies and life on Earth.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Michelangelo%2C_Creation_of_the_Sun%2C_Moon%2C_and_Plants_01.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/1200px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+    },
+    {
+      "name": "American Gothic",
+      "year": 1930,
+      "century": "20th",
+      "artist": "Grant Wood",
+      "short_description": "A quintessential image of American rural life, featuring a stern-looking farmer and his daughter standing before a farmhouse.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg/1200px-Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Grant_Wood.jpg"
+    },
+    {
+      "name": "The Sleeping Gypsy",
+      "year": 1897,
+      "century": "19th",
+      "artist": "Henri Rousseau",
+      "short_description": "Rousseau's dreamlike depiction of a lion watching over a sleeping gypsy in the moonlight.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEViDmTgzPtGMtqZMzHrwtjj9KmF2nqi3a9oZgH_em8w&s",
+      "artist_photo_url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjIvMDUvMTYvMnM4M3ZmNWF1Yl9BUkNIXzg0MjhfUHJlc3NfY3JvcC5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSA1MTJ4NTEyXHUwMDNlIl1d/ARCH_8428-Press-crop.jpg?sha=53b976c12dbaa636"
+    },
+    {
+      "name": "Whistler's Mother",
+      "year": 1871,
+      "century": "19th",
+      "artist": "James McNeill Whistler",
+      "short_description": "A portrait of Whistler's mother, known for its serene depiction and the artist's meticulous attention to detail.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCJP3y5pnCWorwyMlYYNHLV3Z7oFcefVfcZjsv2-f08Q&sg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/James_McNeill_Whistler%2C_Alice_Butt%2C_c._1895%2C_NGA_35081.jpg/220px-James_McNeill_Whistler%2C_Alice_Butt%2C_c._1895%2C_NGA_35081.jpg"
+    },
+    {
+      "name": "The Thinker on a Rock",
+      "year": 1906,
+      "century": "20th",
+      "artist": "Auguste Rodin",
+      "short_description": "A variation of Rodin's famous sculpture, The Thinker, placed on a rocky pedestal.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Utrecht_Thinker_On_A_Rock_%282002%29.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Auguste_Rodin_fotografato_da_Nadar_nel_1891.jpg/640px-Auguste_Rodin_fotografato_da_Nadar_nel_1891.jpg"
+    },
+    {
+      "name": "The Birth of Christ",
+      "year": 1475,
+      "century": "15th",
+      "artist": "Sandro Botticelli",
+      "short_description": "Botticelli's rendition of the nativity scene, showcasing his signature style and attention to detail.",
+      "art_photo_url": "https://i.ytimg.com/vi/I3WDQKgkp6s/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCif4TXZJh-OWlZWNUZwZxxRpGjnQ",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/1200px-Sandro_Botticelli_083.jpg"
+    },
+    {
+      "name": "The Son of Man",
+      "year": 1964,
+      "century": "20th",
+      "artist": "René Magritte",
+      "short_description": "A surreal self-portrait of Magritte with his face obscured by a hovering green apple.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Magritte_TheSonOfMan.jpg",
+      "artist_photo_url": "https://www.renemagritte.org/assets/img/rene-magritte-photo.jpg"
+    },
+   {
+      "name": "The School of Athens",
+      "year": 1511,
+      "century": "16th",
+      "artist": "Raphael",
+      "short_description": "Raphael's masterpiece fresco depicting a gathering of great philosophers and thinkers from antiquity.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Kj64bggizZHjg43XpIVE4MHRv9U1XQIH_JmdDIXP-A&s",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Raffaello_Sanzio.jpg"
+    },
+    {
+      "name": "Water Lilies",
+      "year": 1916,
+      "century": "20th",
+      "artist": "Claude Monet",
+      "short_description": "Monet's series of paintings capturing the beauty of his water lily pond in Giverny, France.",
+      "art_photo_url": "https://cdn.britannica.com/89/174689-050-794BDBA4/Plant-Flower-Aquatic-plant-Water-lily-Nymphaea.jpg",
+      "artist_photo_url": "https://cdn.britannica.com/57/250457-050-342611AD/Claude-Monet-French-Impressionist-painter.jpg"
+    },
+    {
+  "name": "Las Meninas",
+  "year": 1656,
+  "century": "17th",
+  "artist": "Diego Velázquez",
+  "short_description": "A complex and enigmatic portrayal of the Spanish royal family by a master of light and shadow.",
+  "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg/300px-Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
+  "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg/800px-Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg"
+  },
+  {
+  "name": "The Hay Wain",
+  "year": 1821,
+  "century": "19th",
+  "artist": "John Constable",
+  "short_description": "A quintessential depiction of the English countryside, known for its use of light and atmosphere.",
+  "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg/1200px-John_Constable_-_The_Hay_Wain_%281821%29.jpg",
+  "artist_photo_url": "https://uploads6.wikiart.org/images/john-constable.jpg!Portrait.jpg"
+  },
+  {
+  "name": "Bal du moulin de la Galette",
+  "year": 1877,
+  "century": "19th",
+  "artist": "Pierre-Auguste Renoir",
+  "short_description": "A lively scene of a Parisian dance hall, capturing the energy and joy of the Impressionist movement.",
+  "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Mus%C3%A9e_d%27Orsay_RF_2739_%28derivative_work_-_AutoContrast_edit_in_LCH_space%29.jpg/1200px-Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Mus%C3%A9e_d%27Orsay_RF_2739_%28derivative_work_-_AutoContrast_edit_in_LCH_space%29.jpg",
+  "artist_photo_url": "https://uploads4.wikiart.org/images/pierre-auguste-renoir.jpg!Portrait.jpg"
+  },
+  {
+  "name": "Flaming June",
+  "year": 1931,
+  "century": "20th",
+  "artist": "Salvador Dalí",
+  "short_description": "A photorealistic depiction of a distorted human figure, considered a key Surrealist work.",
+  "art_photo_url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_jVWfT85.jpg",
+  "artist_photo_url": "https://assets.artworkarchive.com/image/upload/t_jpg_large/v1605300238/user_43577/contact_images/dahli_x4uneu.jpg"
+  },
+  {
+  "name": "Great Red Dragon and the Woman Clothed in Sun",
+  "year": 1800,
+  "century": "19th",
+  "artist": "William Blake",
+  "short_description": "A powerful and symbolic work of religious art, full of vibrant colors and dramatic imagery.",
+  "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_Great_Red_Dragon_and_the_Woman_Clothed_with_the_Sun.jpg",
+  "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/William_Blake_by_Thomas_Phillips.jpg/800px-William_Blake_by_Thomas_Phillips.jpg"
+  },
+  {
+      "name": "Vitruvian Man",
+      "year": 1490,
+      "century": "15th",
+      "artist": "Leonardo da Vinci",
+      "short_description": "A drawing illustrating the proportions of the human body, based on the writings of the Roman architect Vitruvius.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg",
+      "artist_photo_url": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-leonardo-da-vinci-1452-1519-getty.jpg"
+    },
+    {
+      "name": "Lady with an Ermine",
+      "year": 1489,
+      "century": "15th",
+      "artist": "Leonardo da Vinci",
+      "short_description": "A portrait of Cecilia Gallerani, mistress of Ludovico Sforza, holding an ermine.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg/1200px-Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg",
+      "artist_photo_url": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-leonardo-da-vinci-1452-1519-getty.jpg"
+    },
+    {
+      "name": "Salvator Mundi",
+      "year": 1500,
+      "century": "16th",
+      "artist": "Leonardo da Vinci",
+      "short_description": "A painting of Jesus Christ as Salvator Mundi, the Savior of the World, holding a crystal orb.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToad2Fmr8L-pLFGUc3fY0luaU1ZGLkjKirNf5yvOTVfw&s",
+      "artist_photo_url": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-leonardo-da-vinci-1452-1519-getty.jpg"
+    },
+    {
+      "name": "Madonna of the Rocks",
+      "year": 1483,
+      "century": "15th",
+      "artist": "Leonardo da Vinci",
+      "short_description": "Two versions exist, one in the Louvre and the other in the National Gallery, London, both depicting the Madonna with Child and angels.",
+      "art_photo_url": "https://media.posterlounge.com/img/products/130000/124966/124966_poster.jpg",
+      "artist_photo_url": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-leonardo-da-vinci-1452-1519-getty.jpg"
+    },
+    {
+      "name": "Anatomical Studies",
+      "year": 1510,
+      "century": "16th",
+      "artist": "Leonardo da Vinci",
+      "short_description": "A collection of drawings detailing Leonardo's anatomical studies, including the famous Vitruvian Man.",
+      "art_photo_url": "https://az334034.vo.msecnd.net/images-0/anatomical-studies-sir-peter-paul-rubens-1605-55c69c4e.jpg",
+      "artist_photo_url": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-leonardo-da-vinci-1452-1519-getty.jpg"
+    },
+    {
+      "name": "The Adoration of the Magi",
+      "year": 1481,
+      "century": "15th",
+      "artist": "Leonardo da Vinci",
+      "short_description": "An unfinished painting depicting the Adoration of the Magi by the infant Jesus, Mary, and Joseph.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Botticelli_-_Adoration_of_the_Magi_%28Zanobi_Altar%29_-_Uffizi.jpg",
+      "artist_photo_url": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-leonardo-da-vinci-1452-1519-getty.jpg"
+    },
+    {
+      "name": "The Baptism of Christ",
+      "year": 1475,
+      "century": "15th",
+      "artist": "Leonardo da Vinci",
+      "short_description": "A painting by da Vinci depicting the baptism of Jesus by John the Baptist.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Baptism_of_Christ_%28Verrocchio_%26_Leonardo%29.jpg",
+      "artist_photo_url": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-leonardo-da-vinci-1452-1519-getty.jpg"
+    },
+    {
+      "name": "The Virgin and Child with St. Anne",
+      "year": 1508,
+      "century": "16th",
+      "artist": "Leonardo da Vinci",
+      "short_description": "A painting depicting the Virgin Mary, Child Jesus, and St. Anne, Jesus's grandmother, embracing.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/L%C3%A9onard_de_Vinci%2C_sainte_Anne%2C_Louvre.jpg/270px-L%C3%A9onard_de_Vinci%2C_sainte_Anne%2C_Louvre.jpg",
+      "artist_photo_url": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-leonardo-da-vinci-1452-1519-getty.jpg"
+    },
+    {
+      "name": "Study of Hands",
+      "year": 1490,
+      "century": "15th",
+      "artist": "Leonardo da Vinci",
+      "short_description": "Detailed studies of human hands, showcasing Leonardo's mastery of anatomy and proportion.",
+      "art_photo_url": "https://uploads3.wikiart.org/images/leonardo-da-vinci/study-of-hands.jpg!Large.jpg",
+      "artist_photo_url": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-leonardo-da-vinci-1452-1519-getty.jpg"
+    },
+  {
+      "name": "Bird in Space",
+      "year": 1928,
+      "century": "20th",
+      "artist": "Constantin Brancusi",
+      "short_description": "A series of sculptures representing a sleek, elongated form resembling a bird in flight.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bird_in_Space.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edward_Steichen_-_Brancusi.jpg"
+    },
+    {
+      "name": "The Kiss",
+      "year": 1907,
+      "century": "20th",
+      "artist": "Constantin Brancusi",
+      "short_description": "A sculpture depicting two abstracted figures in an embrace, characterized by smooth, curving forms.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/The_Kiss_LCCN93511527.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edward_Steichen_-_Brancusi.jpg"
+    },
+    {
+      "name": "Sleeping Muse",
+      "year": 1910,
+      "century": "20th",
+      "artist": "Constantin Brancusi",
+      "short_description": "A series of sculptures representing a tranquil, abstracted female figure in repose.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Sleepingmuse1.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edward_Steichen_-_Brancusi.jpg"
+    },
+    {
+      "name": "The Endless Column",
+      "year": 1938,
+      "century": "20th",
+      "artist": "Constantin Brancusi",
+      "short_description": "A series of columns representing the concept of infinity, with repeated geometric motifs.",
+      "art_photo_url": "https://img3.oastatic.com/img2/25979534/max/variant.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edward_Steichen_-_Brancusi.jpg"
+    },
+    {
+      "name": "The Newborn",
+      "year": 1915,
+      "century": "20th",
+      "artist": "Constantin Brancusi",
+      "short_description": "A sculpture depicting a simple, abstracted form resembling a newborn baby.",
+      "art_photo_url": "https://uploads1.wikiart.org/images/constantin-brancusi/the-newborn.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edward_Steichen_-_Brancusi.jpg"
+    },
+    {
+      "name": "Mlle. Pogany",
+      "year": 1912,
+      "century": "20th",
+      "artist": "Constantin Brancusi",
+      "short_description": "A series of sculptures representing a stylized female head, exploring themes of beauty and identity.",
+      "art_photo_url": "https://i.ytimg.com/vi/7BcnbJzPWnI/maxresdefault.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edward_Steichen_-_Brancusi.jpg"
+    },
+    {
+      "name": "Fish",
+      "year": 1926,
+      "century": "20th",
+      "artist": "Constantin Brancusi",
+      "short_description": "A series of sculptures representing stylized fish forms, characterized by smooth, abstracted lines.",
+      "art_photo_url": "https://media.tate.org.uk/art/images/work/T/T07/T07107_589684_9.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edward_Steichen_-_Brancusi.jpg"
+    },
+    {
+      "name": "The Muse",
+      "year": 1912,
+      "century": "20th",
+      "artist": "Constantin Brancusi",
+      "short_description": "A series of sculptures representing a contemplative female figure, with simplified, geometric features.",
+      "art_photo_url": "https://m.media-amazon.com/images/M/MV5BNzA1NmNlMWYtNzI5NC00MmEwLTgyOWMtNjdmOTA2MDU3NTFjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edward_Steichen_-_Brancusi.jpg"
+    },
+    {
+      "name": "Princess X",
+      "year": 1916,
+      "century": "20th",
+      "artist": "Constantin Brancusi",
+      "short_description": "A controversial sculpture representing the abstracted form of a reclining female figure.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtly0889Qubs5xMCJQ8SfRtQ5kR8A0tX8tpRKcZseM0Q&s",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edward_Steichen_-_Brancusi.jpg"
+    },
+    {
+      "name": "The Wisdom of the Earth",
+      "year": 1907,
+      "century": "20th",
+      "artist": "Constantin Brancusi",
+      "short_description": "A series of sculptures representing an abstracted form resembling the head of a woman, symbolizing the earth's wisdom.",
+      "art_photo_url": "https://brancusi.1dez.com/poze%20opere/full%20size/cumintireapamantului.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edward_Steichen_-_Brancusi.jpg"
+    },
+     {
+      "name": "The Entombment",
+      "year": 1500,
+      "century": "16th",
+      "artist": "Michelangelo Buonarroti",
+      "short_description": "A marble sculpture depicting the body of Jesus being placed in the tomb, showcasing Michelangelo's mastery of anatomy and emotion.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJZydbIO2hpKQH0rkD_fg-NfaFiSDjBbxMZaPBMUpsQ&s",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+    },
+    {
+      "name": "Crucifixion of Saint Peter",
+      "year": 1545,
+      "century": "16th",
+      "artist": "Michelangelo Buonarroti",
+      "short_description": "A fresco painting depicting the crucifixion of Saint Peter, located in the Vatican's Pauline Chapel.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Crucifixion_of_Saint_Peter-Caravaggio_%28c.1600%29.jpg/800px-Crucifixion_of_Saint_Peter-Caravaggio_%28c.1600%29.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+    },
+    {
+      "name": "Rondanini Pietà",
+      "year": "1564-1565",
+      "century": "16th",
+      "artist": "Michelangelo Buonarroti",
+      "short_description": "A marble sculpture of the Pietà theme, left unfinished by Michelangelo and representing his late style and spiritual reflection.",
+      "art_photo_url": "https://www.listonegiordano.com/one/wp-content/uploads/2019/01/pieta_rondanini_listone_giordano_architettura-01-1024x576.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+    },
+    {
+      "name": "Taddei Tondo",
+      "year": "1504-1505",
+      "century": "16th",
+      "artist": "Michelangelo Buonarroti",
+      "short_description": "A marble relief depicting the Virgin Mary with the Christ Child, notable for its tender portrayal and dynamic composition.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQZ0SHOkEBxoc5twVb_N0Kbl8DAPYce_3kYKgMVAqog&s",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+    },
+    {
+      "name": "The Torment of Saint Anthony",
+      "year": "1487-1488",
+      "century": "15th",
+      "artist": "Michelangelo Buonarroti",
+      "short_description": "A painting attributed to Michelangelo in his youth, depicting the tormented saint besieged by demons.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Michelangelo_Buonarroti_-_The_Torment_of_Saint_Anthony_-_Google_Art_Project.jpg/1200px-Michelangelo_Buonarroti_-_The_Torment_of_Saint_Anthony_-_Google_Art_Project.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+    },
+    {
+      "name": "Madonna of the Steps",
+      "year": "1490-1492",
+      "century": "15th",
+      "artist": "Michelangelo Buonarroti",
+      "short_description": "A marble relief of the Virgin Mary holding the Christ Child, known for its emotional intensity and intimate portrayal.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Michelangelo%2C_madonna_della_scala%2C_1491_ca%2C_01.JPG",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+    },
+    {
+      "name": "Bacchus",
+      "year": "1496-1497",
+      "century": "15th",
+      "artist": "Michelangelo Buonarroti",
+      "short_description": "A marble sculpture of the Roman god of wine, Bacchus, displaying Michelangelo's early mastery of anatomy and expression.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Michelangelo_Bacchus.jpg/220px-Michelangelo_Bacchus.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpgg"
+    },
+    {
+      "name": "Battle of the Centaurs",
+      "year": "1491-1492",
+      "century": "15th",
+      "artist": "Michelangelo Buonarroti",
+      "short_description": "A marble relief depicting a battle between centaurs and humans, showcasing Michelangelo's skill in capturing dynamic movement.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Michelangelo%2C_centauromachia%2C_1492_ca._01.JPG",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+    },
+    {
+      "name": "Cupid",
+      "year": "1496-1497",
+      "century": "15th",
+      "artist": "Michelangelo Buonarroti",
+      "short_description": "A marble sculpture of Cupid, attributed to Michelangelo in his youth and renowned for its graceful pose and delicate features.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-vKMWzezubx5wGJR6LTyPZ87u_MjRsYgOIclAZuQOA&s",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+    },
+    {
+      "name": "The Madonna of the Stairs",
+      "year": "1491-1492",
+      "century": "15th",
+      "artist": "Michelangelo Buonarroti",
+      "short_description": "A marble relief of the Virgin Mary and the Christ Child, believed to be one of Michelangelo's earliest surviving works.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Michelangelo%2C_madonna_della_scala%2C_1491_ca%2C_01.JPG",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"
+    },
+  {
+      "name": "Primavera",
+      "year": 1482,
+      "century": "15th",
+      "artist": "Sandro Botticelli",
+      "short_description": "One of Botticelli's most famous works, Primavera is an allegorical painting depicting mythological figures in a lush garden setting.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Botticelli-primavera.jpg/450px-Botticelli-primavera.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/1200px-Sandro_Botticelli_083.jpg"
+    },
+    {
+      "name": "The Annunciation",
+      "year": 1489,
+      "century": "15th",
+      "artist": "Sandro Botticelli",
+      "short_description": "Botticelli's depiction of the Annunciation, where the angel Gabriel announces to the Virgin Mary that she will conceive Jesus.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Annunciation%2C_Philadelphia_Museum_of_Art%2C_W1899-1-1-pma%2C_by_Henry_Ossawa_Tanner.jpg/1200px-The_Annunciation%2C_Philadelphia_Museum_of_Art%2C_W1899-1-1-pma%2C_by_Henry_Ossawa_Tanner.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/1200px-Sandro_Botticelli_083.jpg"
+    },
+    {
+      "name": "Venus and Mars",
+      "year": 1485,
+      "century": "15th",
+      "artist": "Sandro Botticelli",
+      "short_description": "A painting depicting Venus, the goddess of love, reclining while Mars, the god of war, sleeps beside her, symbolizing love's triumph over conflict.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/en/8/8c/VenusandMarsalbumcover.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/1200px-Sandro_Botticelli_083.jpg"
+    },
+    {
+      "name": "The Adoration of the Magi",
+      "year": 1475,
+      "century": "15th",
+      "artist": "Sandro Botticelli",
+      "short_description": "A painting portraying the biblical scene of the Adoration of the Magi, where the three wise men pay homage to the infant Jesus.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Botticelli_-_Adoration_of_the_Magi_%28Zanobi_Altar%29_-_Uffizi.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/1200px-Sandro_Botticelli_083.jpg"
+    },
+    {
+      "name": "The Mystical Nativity",
+      "year": 1500,
+      "century": "16th",
+      "artist": "Sandro Botticelli",
+      "short_description": "Botticelli's depiction of the Nativity scene, infused with mystical elements and symbolism, including angels and cherubs.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO84jG3NF50iR_ezdNN7muavlHjmfFVI66JBPDfLk4A&s",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/1200px-Sandro_Botticelli_083.jpg"
+    },
+    {
+      "name": "Madonna of the Magnificat",
+      "year": 1483,
+      "century": "15th",
+      "artist": "Sandro Botticelli",
+      "short_description": "A painting of the Madonna and Child, where the Virgin Mary is depicted writing the Magnificat, a hymn of praise.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sandro_Botticelli_-_Madonna_del_Magnificat_-_Google_Art_Project.jpg/1200px-Sandro_Botticelli_-_Madonna_del_Magnificat_-_Google_Art_Project.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/1200px-Sandro_Botticelli_083.jpg"
+    },
+    {
+      "name": "Portrait of a Young Woman",
+      "year": 1480,
+      "century": "15th",
+      "artist": "Sandro Botticelli",
+      "short_description": "A portrait of a young woman believed to be Simonetta Vespucci, renowned for her beauty during the Italian Renaissance.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Vermeer-Portrait_of_a_Young_Woman.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/1200px-Sandro_Botticelli_083.jpg"
+    },
+    {
+      "name": "The Birth of Venus",
+      "year": 1486,
+      "century": "15th",
+      "artist": "Sandro Botticelli",
+      "short_description": "Botticelli's iconic painting depicting the goddess Venus emerging from the sea on a shell.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/800px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/1200px-Sandro_Botticelli_083.jpg"
+    },
+    {
+      "name": "Calumny of Apelles",
+      "year": 1495,
+      "century": "15th",
+      "artist": "Sandro Botticelli",
+      "short_description": "A painting illustrating the allegory of Calumny, inspired by a Greek text by Lucian and transformed into an iconic Renaissance work by Botticelli.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sandro_Botticelli_021.jpg/1200px-Sandro_Botticelli_021.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/1200px-Sandro_Botticelli_083.jpg"
+    },
+    {
+      "name": "The Virgin and Child with Saint John and an Angel",
+      "year": 1490,
+      "century": "15th",
+      "artist": "Sandro Botticelli",
+      "short_description": "A painting depicting the Virgin Mary with the Christ Child, Saint John the Baptist as a child, and an angel, conveying tenderness and grace.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Raffaello_Sanzio_-_The_Virgin_and_Child_with_Saint_John_the_Baptist_%28La_Belle_Jardini%C3%A8re%29_-_WGA18646.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/1200px-Sandro_Botticelli_083.jpg"
+    },
+  {
+      "name": "Madonna of Chancellor Rolin",
+      "year": 1435,
+      "century": "15th",
+      "artist": "Jan van Eyck",
+      "short_description": "A masterpiece of Northern Renaissance art, depicting the Virgin Mary with the infant Jesus and Chancellor Nicolas Rolin.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Virgin_with_Chancellor_Rolin_by_Jan_van_Eyck_%28Louvre%29.webp",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Portrait_of_a_Man_by_Jan_van_Eyck-small.jpg"
+    },
+    {
+      "name": "The Arnolfini Portrait",
+      "year": 1434,
+      "century": "15th",
+      "artist": "Jan van Eyck",
+      "short_description": "A masterpiece of Northern Renaissance art, depicting a wealthy couple in a richly detailed room.",
+      "art_photo_url": "https://www.nationalgallery.org.uk/media/32419/n-0186-00-000175-hd.jpg?rxy=0.49391727493917276,0.23851590106007067&width=1920&height=1080&rnd=132385367808600000",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Portrait_of_a_Man_by_Jan_van_Eyck-small.jpg"
+    },
+    {
+      "name": "Ghent Altarpiece",
+      "year": 1432,
+      "century": "15th",
+      "artist": "Jan van Eyck",
+      "short_description": "One of the most famous and influential artworks of the Northern Renaissance, consisting of a complex polyptych with various religious scenes.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lamgods_open.jpg/800px-Lamgods_open.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Portrait_of_a_Man_by_Jan_van_Eyck-small.jpg"
+    },
+    {
+      "name": "Portrait of Margaret van Eyck",
+      "year": 1439,
+      "century": "15th",
+      "artist": "Jan van Eyck",
+      "short_description": "A portrait believed to depict the artist's wife, Margaret van Eyck, showcasing Van Eyck's mastery of detail and realism.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMalhwuQLRPiTwXmDFmLGfn8F1qnqOqBnr3ArFeIiCA&s",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Portrait_of_a_Man_by_Jan_van_Eyck-small.jpg"
+    },
+    {
+      "name": "The Madonna with Canon van der Paele",
+      "year": 1436,
+      "century": "15th",
+      "artist": "Jan van Eyck",
+      "short_description": "A painting featuring the Virgin Mary and the infant Jesus with Saint Donatian and Canon Joris van der Paele.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/La_Madone_au_Chanoine_Van_der_Paele.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Portrait_of_a_Man_by_Jan_van_Eyck-small.jpg"
+    },
+    {
+      "name": "Man in a Red Turban",
+      "year": 1433,
+      "century": "15th",
+      "artist": "Jan van Eyck",
+      "short_description": "A self-portrait of the artist wearing a red turban, considered one of the earliest examples of a detailed individual portrait.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Portrait_of_a_Man_in_a_Turban_%28Jan_van_Eyck%29_with_frame.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Portrait_of_a_Man_by_Jan_van_Eyck-small.jpg"
+    },
+    {
+      "name": "The Crucifixion and Last Judgment Diptych",
+      "year": 1430,
+      "century": "15th",
+      "artist": "Jan van Eyck",
+      "short_description": "A diptych consisting of two panels: one depicting the Crucifixion of Jesus and the other the Last Judgment, showcasing Van Eyck's skill in narrative and detail.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Van_Eyck_-_The_Crucifixion%3B_The_Last_Judgment.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Portrait_of_a_Man_by_Jan_van_Eyck-small.jpg"
+    },
+    {
+      "name": "Saint Barbara",
+      "year": 1437,
+      "century": "15th",
+      "artist": "Jan van Eyck",
+      "short_description": "A panel painting depicting Saint Barbara, known as the patron saint of artillerymen and architects.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Wilhelm_Kalteysen_-_Saint_Barbara_Altarpiece_-_Google_Art_Project.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Portrait_of_a_Man_by_Jan_van_Eyck-small.jpg"
+    },
+    {
+      "name": "Portrait of Baudouin de Lannoy",
+      "year": 1435,
+      "century": "15th",
+      "artist": "Jan van Eyck",
+      "short_description": "A portrait of Baudouin de Lannoy, a nobleman and diplomat, executed with Van Eyck's characteristic attention to detail.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jan_van_Eyck_-_Baudouin_de_Lannoy.jpg/1200px-Jan_van_Eyck_-_Baudouin_de_Lannoy.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Portrait_of_a_Man_by_Jan_van_Eyck-small.jpg"
+    },
+    {
+      "name": "The Three Marys at the Tomb",
+      "year": 1425,
+      "century": "15th",
+      "artist": "Jan van Eyck",
+      "short_description": "A painting depicting the biblical scene of the three Marys at the empty tomb of Jesus, showcasing Van Eyck's early mastery of composition and emotion.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgCNPoDqvFPHtlx9vO97iycA47fcrY15blkamt-w5t2Q&s",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Portrait_of_a_Man_by_Jan_van_Eyck-small.jpg"
+    },
+  {
+      "name": "The Weeping Woman",
+      "year": 1937,
+      "century": "20th",
+      "artist": "Pablo Picasso",
+      "short_description": "Part of Picasso's series inspired by the bombing of Guernica, this painting portrays a woman in agony and grief.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/en/1/14/Picasso_The_Weeping_Woman_Tate_identifier_T05010_10.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/640px-Pablo_picasso_1.jpg"
+    },
+    {
+      "name": "Girl before a Mirror",
+      "year": 1932,
+      "century": "20th",
+      "artist": "Pablo Picasso",
+      "short_description": "A portrait of Picasso's mistress Marie-Thérèse Walter, reflecting themes of identity, mortality, and inner conflict.",
+      "art_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZu7grp2iL4B2gmblzz2hB-E3UFFSJzSaH8Q6JkrYImw&s",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/640px-Pablo_picasso_1.jpg"
+    },
+    {
+      "name": "The Old Guitarist",
+      "year": 1903,
+      "century": "20th",
+      "artist": "Pablo Picasso",
+      "short_description": "An early masterpiece of Picasso's Blue Period, depicting a blind and impoverished musician hunched over his guitar.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Old_guitarist_chicago.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/640px-Pablo_picasso_1.jpg"
+    },
+    {
+      "name": "Les Noces de Pierrette",
+      "year": 1905,
+      "century": "20th",
+      "artist": "Pablo Picasso",
+      "short_description": "A painting depicting Picasso's lover, Fernande Olivier, as Pierrette, a melancholic figure from French folklore.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/en/3/34/Lesnoces.JPG",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/640px-Pablo_picasso_1.jpg"
+    },
+    {
+      "name": "Buste de Femme (Dora Maar)",
+      "year": 1938,
+      "century": "20th",
+      "artist": "Pablo Picasso",
+      "short_description": "A portrait of Picasso's lover and muse, Dora Maar, rendered in his distinctive Cubist style.",
+      "art_photo_url": "https://images-cdn.bridgemanimages.com/api/1.0/image/600wm.XXX.14705230.7055475/3247562.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/640px-Pablo_picasso_1.jpg"
+    },
+    {
+      "name": "The Tragedy",
+      "year": 1903,
+      "century": "20th",
+      "artist": "Pablo Picasso",
+      "short_description": "An early work from Picasso's Blue Period, portraying a scene of despair and sorrow.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Tragedy.JPG/800px-The_Tragedy.JPG",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/640px-Pablo_picasso_1.jpg"
+    },
+    {
+      "name": "The Guitar Player",
+      "year": 1910,
+      "century": "20th",
+      "artist": "Pablo Picasso",
+      "short_description": "A Cubist painting depicting a man playing a guitar, showcasing Picasso's innovative approach to form and space.",
+      "art_photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Jan_Vermeer_van_Delft_013.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/640px-Pablo_picasso_1.jpg"
+    },
+    {
+      "name": "Three Musicians",
+      "year": 1921,
+      "century": "20th",
+      "artist": "Pablo Picasso",
+      "short_description": "A Cubist masterpiece featuring three musicians, each rendered in a geometric and abstracted form.",
+      "art_photo_url": "https://www.fotoprinter.ro/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/h/three_musicians.jpg",
+      "artist_photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/640px-Pablo_picasso_1.jpg"
+    }
+  ]
+  
